@@ -9,7 +9,7 @@ redirect_from:
 
 # Junteng Liu
 
-I am a first-year Ph.D. candidate in the [HKUST NLP Group](https://nlp.ust.hk/), supervised by [Professor Junxian He](https://sites.google.com/site/junxianhese/). I graduated from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2024, where I was also advised by Prof. Junxian He during my undergraduate studies.
+I am a first-year Ph.D. candidate in the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He during my undergraduate studies.
 
 My research focuses on **natural language processing** and **machine learning**.
 
@@ -26,11 +26,11 @@ My research focuses on **natural language processing** and **machine learning**.
 
 ## Research Experience
 
-- **Research Intern**, [MINIMAX](https://www.minimaxi.com/), February 2025 – Present
+- **Research Intern**, MINIMAX, February 2025 – Present
 - **Research Intern**, Tencent WXG, June 2024 – September 2024  
-  *Advisor: [Zifei Shan](https://scholar.google.com/citations?user=GfV48P4AAAAJ&hl=en)*
+  *Advisor: Zifei Shan*
 - **Research Intern**, Shanghai AI Lab, June 2023 – December 2023  
-  *Advisor: [Prof. Yu Cheng](https://scholar.google.com/citations?user=5Bq0230AAAAJ&hl=en)*
+  *Advisor: Prof. Yu Cheng*
 
 ## Awards
 
@@ -38,9 +38,9 @@ My research focuses on **natural language processing** and **machine learning**.
 
 ## Publications
 
-1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*. 2025. ([arXiv](https://arxiv.org/))
+1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*. 2025. arXiv.
 
-2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *On the Perception Bottleneck of VLMs for Chart Understanding*. 2025. ([arXiv](https://arxiv.org/)) · [Code (Vision4Chart)](https://github.com/Vicent0205/Vision4Chart)
+2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *On the Perception Bottleneck of VLMs for Chart Understanding*. 2025. arXiv. · [Code (Vision4Chart)](https://github.com/Vicent0205/Vision4Chart)
 
 3. **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *On the Universal Truthfulness Hyperplane Inside LLMs*. EMNLP 2024. · [Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
